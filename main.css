@@ -1,0 +1,24 @@
+body{
+    color: rgb(23, 27, 156);
+}
+
+a{
+    color: rgb(215, 21, 189);
+}
+img{
+    width: 100%;
+
+}
+.wrapper{ 
+    max-width: 920px;
+    margin: 0 auto;
+}
+
+.textBigGreen{
+    text-transform: uppercase;
+    color: green; 
+}
+
+p{
+    text-align: right;
+}
